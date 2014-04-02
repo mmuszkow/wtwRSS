@@ -1,0 +1,6 @@
+LIBRARY	"wtwRSS"
+
+EXPORTS
+	queryPlugInfo
+	pluginLoad
+	pluginUnload
