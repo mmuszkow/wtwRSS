@@ -1,4 +1,4 @@
 wtwRSS
 ======
 
-RSS/Atom plugin forr WTW communicator
+RSS/Atom plugin for WTW communicator. Needs librss library from https://github.com/mmuszkow/librss.
